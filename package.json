@@ -1,0 +1,24 @@
+{
+  "name": "coe-website",
+  "version": "1.0.0",
+  "description": "COE-website",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerry-29/COE-Website.git"
+  },
+  "author": "Ayush-saxena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerry-29/COE-Website/issues"
+  },
+  "homepage": "https://github.com/jerry-29/COE-Website#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
