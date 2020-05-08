@@ -1,16 +1,9 @@
-@keyframes fadeInRight {
-    from {
-      opacity: 0;
-      transform: translateX(-20%);
-    }
-  
-    to {
-      opacity: 1;
-      transform: none;
-    }
-  }
-  
-  .fadeInRight{
-    animation: fadeInRight 1s;  
-  }
- 
+.navbar{
+    background-color:black;
+}
+.btn {
+  border: 1px;
+  background-color: #333333;
+  margin-left: 4px;
+  margin-right: 4px;
+}
