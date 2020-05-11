@@ -10,3 +10,13 @@
 .carousel-item img{
   height: 100vh;
 }
+.about-style{
+  padding: 100px 0px 100px 0px;
+}
+.about-style img{
+  padding: 30px 30px 30px;
+}
+.footer{
+   background-color: #333333;
+   padding: 20px;
+}
